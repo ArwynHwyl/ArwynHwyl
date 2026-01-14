@@ -14,6 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🐺 Hi, I'm ArwynHwyl (The Wolf) 
+### **Software Engineer | Security Researcher | Aspiring APT Engineer**
+
+I am a high-achieving **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. With a **GPA of 3.47**, I bridge the gap between robust software development and offensive security operations.
+
+Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infrastructure)** and **Java Programming**, mentoring 100+ students on how to build, deploy, and secure scalable systems.
+
+---
+
+## ⚡ Technical Arsenal
+
+| **Building (DevOps & SE)** | **Breaking (Red Teaming)** |
+| :--- | :--- |
+| **Languages:** Java (Advanced), JavaScript, Python, PHP | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap, Wireshark |
+| **Infra:** AWS, Docker, CI/CD Pipelines, Linux Admin | **Tactics:** Web App Pentesting, IDOR Exploitation, JWT Attacks, SQLi |
+| **Frameworks:** React, Node.js, Spring Boot | **Mindset:** Manual Logic Flaw Analysis & Adversary Simulation |
+
+---
+
+## 🚀 Featured Security Research & Projects
+
+### 🔍 [Manual vs. Automated Vulnerability Assessment](https://github.com/ArwynHwyl/manual-vs-auto-research)
+* **Objective:** Conducted a deep-dive comparative analysis between automated scanners (OWASP ZAP) and manual testing (Burp Suite).
+* **Key Discovery:** Successfully identified critical **IDOR and SQL Injection** vulnerabilities that automated tools failed to detect.
+* **Impact:** Proved that manual analysis is essential for identifying complex business logic flaws.
+
+### 🛡️ [Anti-Fake News Platform (AppSec Focus)](https://github.com/ArwynHwyl/anti-fakenews)
+* **Security Lead:** Engineered a secure web application featuring **JWT-based authentication**.
+* **Red Team Perspective:** Performed internal audits and identified privilege escalation vulnerabilities within the data-mapping logic.
+
+---
+
+## 🏆 Achievements & Stats
+
+* **HTB University CTF 2025:** Ranked **~400th out of 1,000+** global universities.
+* **Teaching Assistant:** Leading lab sessions for **DevOps (AWS)** and **Java** courses.
+* **300+ Contributions:** Active developer with a consistent commitment to building and breaking code.
+
+---
+
+## 🎯 My APT Roadmap
+I am currently deep-diving into:
+* **Custom Command & Control (C2) Development** using Java/Python.
+* **Evasion Techniques** to bypass modern EDR and WAF systems.
+* **Cloud Infrastructure Hacking** (AWS/GCP Security Misconfigurations).
+
+---
+
+## 📫 Connect with Me
+* **LinkedIn:** [Your LinkedIn Link]
+* **Email:** [Your Email Address]
+* **Portfolio:** [Your Portfolio Link]
+
+*"I don't just find bugs; I visualize the entire architecture to find the path they never thought I'd take."*
 | Skill        | List           |
 | ------------- |-------------|
 | Language | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
