@@ -21,7 +21,7 @@ Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infra
 
 ---
 
-## ⚡ Technical Arsenal
+##  Technical Arsenal
 
 | **Building (DevOps & SE)** | **Breaking (Red Teaming)** |
 | :--- | :--- |
@@ -31,7 +31,7 @@ Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infra
 
 ---
 
-## 🚀 Featured Security Research & Projects
+##  Featured Security Research & Projects
 
 ### 🔍 [Manual vs. Automated Vulnerability Assessment](https://github.com/ArwynHwyl/manual-vs-auto-research)
 * **Objective:** Conducted a deep-dive comparative analysis between automated scanners (OWASP ZAP) and manual testing (Burp Suite).
