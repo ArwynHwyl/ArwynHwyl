@@ -58,3 +58,5 @@ Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infra
 ## 📫 Connect with Me
 * **LinkedIn:** [https://www.linkedin.com/in/sattaya-mingsanthia-513389334/]
 * **Portfolio:** 
+
+*"I don't just find bugs; I visualize the entire architecture to find the path they never thought I'd take."*
