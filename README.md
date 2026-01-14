@@ -81,7 +81,7 @@ const arwyn = {
 
 <div align="center">
 
-[![Arwyn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArwynHwyl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arwyn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArwynHwyl&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -101,6 +101,7 @@ const arwyn = {
 
 <div align="center">
 
+<!-- Update these links with your actual social media profiles -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArwynHwyl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arwynhwyl)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arwynhwyl)
