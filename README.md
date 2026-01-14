@@ -38,7 +38,7 @@ Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infra
 * **Key Discovery:** Successfully identified critical **IDOR and SQL Injection** vulnerabilities that automated tools failed to detect.
 * **Impact:** Proved that manual analysis is essential for identifying complex business logic flaws.
 
-### 🛡️ [Anti-Fake News Platform (AppSec Focus)](https://github.com/ArwynHwyl/anti-fakenews)
+### 🛡️ [Anti-Fake News Platform (AppSec Focus)](https://github.com/chartchai-class/Anti-fake-news-Backend)
 * **Security Lead:** Engineered a secure web application featuring **JWT-based authentication**.
 * **Red Team Perspective:** Performed internal audits and identified privilege escalation vulnerabilities within the data-mapping logic.
 
