@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a high-achieving **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. With a **GPA of 3.47**, I bridge the gap between robust software development and offensive security operations.
 
-Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infrastructure)** and **Java Programming**, mentoring students on how to build, deploy, and secure scalable systems and how to colaburating in team.
+Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infrastructure)** and **Java Programming**, mentoring students on how to build, deploy, and secure scalable systems and how to collaborating in team enviroment.
 
 ---
 
@@ -56,7 +56,7 @@ Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infra
 * **ISC2** 1M CC Completion
 
 ## 📫 Connect with Me
-* **LinkedIn:** [https://www.linkedin.com/in/sattaya-mingsanthia-513389334/]
+* **[LinkedIn](https://www.linkedin.com/in/sattaya-mingsanthia-513389334/)** 
 * **Portfolio:** 
 
 *"I don't just find bugs; I visualize the entire architecture to find the path they never thought I'd take."*
