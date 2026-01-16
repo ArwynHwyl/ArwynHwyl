@@ -40,7 +40,8 @@ Used to serve as a TA for **Java programing**, mentorings the students how to pe
 * **Impact:** Proved that manual analysis is essential for identifying complex business logic flaws.
 
 ### 🛡️ Anti-Fake News Platform [Frontend](https://github.com/chartchai-class/Anti-fake-news-Frontend) [Backend](https://github.com/chartchai-class/Anti-fake-news-Backend)
-* **Security Lead:** Engineered a secure web application featuring **JWT-based authentication**.
+* **Summary** Built a fake-news mitigation platform (Spring Boot 3, Vue 3/TS) with news feed, commenting, voting, bookmarks, and JWT role-based access.
+* **Security Lead:** Engineered a secure web application featuring **JWT-based authentication**. 
 
 ### 🔍 [Anti-Fake News Platform Vulnerability Assessment](https://github.com/ArwynHwyl/Social_anti_fake_news_Assessment)
 * **Objective:** Conducted a deep-dive analysis of an JWT-based AuthN and DTO Design architecture.
