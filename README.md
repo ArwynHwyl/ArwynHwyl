@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I am a  **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. I bridge the gap between robust software development and offensive security operations.
 
-Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infrastructure)** and **Java Programming**, mentoring students on how to build, deploy, secure scalable systems and how to collaborating in team enviroment.
+Currently, I serve as a **Teaching Assistant (TA)** for **DevOps (AWS/Infrastructure)**, mentoring students on how to build, deploy, secure scalable systems and how to collaborating in team enviroment. 
+Usedto serve as a TA for **Java programing**, mentorings the students how to perform the programs in JAVA language.
 
 ---
 
