@@ -25,9 +25,9 @@ Currently, I serve as a **Teaching Assistant (TA)** for both **DevOps (AWS/Infra
 
 | **Building (DevOps & SE)** | **Breaking (Red Teaming)** |
 | :--- | :--- |
-| **Languages:** Java (Advanced), JavaScript, Python, TypeScript | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap, Wireshark |
+| **Languages:** Java (Advanced), JavaScript, Python, TypeScript | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap(Basic), Wireshark |
 | **Infra:** AWS(Basic), Docker(Basic), CI/CD Pipelines(Basic), Linux, Window | **Tactics:** Web App Pentesting, Recon, JWT Attacks, |
-| **Frameworks:** React, Vue, Node.js, Spring Boot | **Mindset:** Manual Logic Flaw Analysis & Adversary Simulation |
+| **Frameworks:** React, Vue, Node.js, Spring Boot | **Mindset:** Blend in without drawing attention |
 
 ---
 
