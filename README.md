@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🐺 Hi, I'm ArwynHwyl (The Wolf) 
-### **Software Engineer | Security Enthusiast | Aspiring Red team,APT Engineer**
+### **Software Engineer | Security Enthusiast | Aspiring Red team**
 
 I am a  **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. I bridge the gap between robust software development and offensive security operations.
 
