@@ -26,8 +26,8 @@ Used to serve as a TA for **Java programing**, mentorings the students how to pe
 
 | **Building (DevOps & SE)** | **Breaking (Red Teaming)** |
 | :--- | :--- |
-| **Languages:** Java (Advanced), JavaScript, Python, TypeScript | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap(Basic), Wireshark |
-| **Infra:** AWS(Basic), Docker(Basic), CI/CD Pipelines(Basic), Linux, Window | **Tactics:** Web App Pentesting, Recon, JWT Attacks, |
+| **Languages:** Java, JavaScript, Python, TypeScript | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap(Basic), Wireshark |
+| **Infra:** AWS, Docker, CI/CD Pipelines, Linux, Window, Active directory | **Tactics:** Web App Pentesting, Recon, JWT Attacks, |
 | **Frameworks:** React, Vue, Node.js, Spring Boot | **Mindset:** Blend in without drawing attention |
 
 ---
