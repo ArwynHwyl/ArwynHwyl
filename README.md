@@ -24,7 +24,7 @@ Used to serve as a TA for **Java programing**, mentorings the students how to pe
 
 ##  Technical Arsenal
 
-| **Building (DevOps & SE)** | **Breaking (Red Teaming)** |
+| **Building** | **Breaking** |
 | :--- | :--- |
 | **Languages:** Java, JavaScript, Python, TypeScript | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap(Basic), Wireshark |
 | **Infra:** AWS, Docker, CI/CD Pipelines, Linux, Window, Active directory | **Tactics:** Web App Pentesting, Recon, JWT Attacks, |
