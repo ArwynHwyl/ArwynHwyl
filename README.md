@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 # 🐺 Hi, I'm ArwynHwyl (The Wolf) 
 ### **Software Engineer | Security Enthusiast | Aspiring Red team**
 
-I am a  **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. I bridge the gap between robust software development and offensive security operations.
-
-Currently, I serve as a **Teaching Assistant (TA)** for **DevOps (AWS/Infrastructure)**, mentoring students on how to build, deploy, secure scalable systems and how to collaborating in team enviroment.    
-Used to serve as a TA for **Java programing**, mentorings the students how to perform the programs in JAVA language.
+I am a  **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. 
 
 ---
 
@@ -34,30 +31,17 @@ Used to serve as a TA for **Java programing**, mentorings the students how to pe
 
 ##  Featured Security Research & Projects
 
-### 🔍 [Manual vs. Automated Vulnerability Assessment](https://github.com/ArwynHwyl/manual-vs-auto-research)
+### [Manual vs. Automated Vulnerability Assessment](https://github.com/ArwynHwyl/manual-vs-auto-research)
 * **Objective:** Conducted a deep-dive comparative analysis between automated scanners (OWASP ZAP) and manual testing (Burp Suite).
-* **Key Discovery:** Successfully identified critical **IDOR and SQL Injection** vulnerabilities that automated tools failed to detect.
+* **Key Takeaway:** Successfully identified critical **IDOR and SQL Injection** vulnerabilities that automated tools failed to detect.
 * **Impact:** Proved that manual analysis is essential for identifying complex business logic flaws.
 
-### 🛡️ Anti-Fake News Platform [Frontend](https://github.com/chartchai-class/Anti-fake-news-Frontend) [Backend](https://github.com/chartchai-class/Anti-fake-news-Backend)
-* **Summary** Built a fake-news mitigation platform (Spring Boot 3, Vue 3/TS) with news feed, commenting, voting, bookmarks, and JWT role-based access.
-* **Security Lead:** Engineered a secure web application featuring **JWT-based authentication**. 
+### Anti-Fake News Platform [Frontend](https://github.com/chartchai-class/Anti-fake-news-Frontend) [Backend](https://github.com/chartchai-class/Anti-fake-news-Backend)
+* **Summary** Built a fake-news mitigation platform (Spring Boot 3, Vue 3/TS) with news feed, commenting, voting, bookmarks, and JWT role-based access. 
 
-### 🔍 [Anti-Fake News Platform Vulnerability Assessment](https://github.com/ArwynHwyl/Social_anti_fake_news_Assessment)
+### [Anti-Fake News Platform Vulnerability Assessment](https://github.com/ArwynHwyl/Social_anti_fake_news_Assessment)
 * **Objective:** Conducted a deep-dive analysis of an JWT-based AuthN and DTO Design architecture.
-* **Key Discovery:** Secure system design is an essential and The application must adopt a Zero-Trust approach toward client-supplied data.
 ---
-
-## 🏆 Achievements & Stats
-
-* **HTB University CTF 2025:** Ranked **~400th out of 1,000+** global universities.
-* **Teaching Assistant:** Leading lab sessions for **DevOps (AWS)** and **Java** courses.
-* **THM Advent 2025:** Learning Cybersecurity in 24 module.
-
----
-## 🌱 Leaning/Training
-* **TryHackme (https://tryhackme.com/p/ArwynHwyl):** Jr.penetration, Soc1
-* **ISC2** 1M Certified in cybersecurity
 
 ## 📫 Connect with Me
 * **[LinkedIn](https://www.linkedin.com/in/sattaya-mingsanthia-513389334/)** 
