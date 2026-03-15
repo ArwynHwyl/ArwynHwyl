@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I am a  **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. 
 
----
 
 <!--##  Technical Arsenal
 
