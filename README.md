@@ -19,14 +19,14 @@ I am a  **Software Engineering student (International Program)** at the College 
 
 ---
 
-##  Technical Arsenal
+<!--##  Technical Arsenal
 
 | **Building** | **Breaking** |
 | :--- | :--- |
 | **Languages:** Java, JavaScript, Python, TypeScript | **Tools:** Burp Suite Professional, OWASP ZAP, Nmap(Basic), Wireshark |
 | **Infra:** AWS, Docker, CI/CD Pipelines, Linux, Window, Active directory | **Tactics:** Web App Pentesting, Recon, JWT Attacks, |
 | **Frameworks:** React, Vue, Node.js, Spring Boot | |
-
+-->
 ---
 
 ##  Featured Security Research & Projects
@@ -46,4 +46,5 @@ I am a  **Software Engineering student (International Program)** at the College 
 ## 📫 Connect with Me
 * **[LinkedIn](https://www.linkedin.com/in/sattaya-mingsanthia-513389334/)** 
 <!-- * **Portfolio:** -->
-
+## Portfolio
+https://arwynhwyl.github.io/SattayaPortfolio/
