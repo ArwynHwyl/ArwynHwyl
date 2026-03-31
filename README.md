@@ -38,7 +38,7 @@ I am a  **Software Engineering student (International Program)** at the College 
 ### [Automated_CVE_Threat_Intelligence](https://github.com/ArwynHwyl/Automated_CVE_Threat_Intelligence)
 * **Objective:** To build a tool that can search CVE from the tech-stack that update the CVE data automaticaly
 * **Tools:** Microsoft Power automate + Dataverse + Go proxy + HTML, CSS, JS
-* **Key Takeaway:** A good development do not have to use the high learning curve tech-stack. (In the organization depend on them เราไม่สามารถเลือกเองได้แต่ถ้าเป็นโปรเจคส่วนตัวไม่จำเป็นต้องทำเวอร์ๆ)
+* **Key Takeaway:** A good development do not always have to use the high learning curve tech-stack.
 * **[Visit Web](https://automated-cve-threat-intelligence.onrender.com)** 
 ### Anti-Fake News Platform [Frontend](https://github.com/chartchai-class/Anti-fake-news-Frontend) [Backend](https://github.com/chartchai-class/Anti-fake-news-Backend)
 * **Summary** Built a fake-news mitigation platform (Spring Boot 3, Vue 3/TS) with news feed, commenting, voting, bookmarks, and JWT role-based access. 
