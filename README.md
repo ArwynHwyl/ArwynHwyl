@@ -47,7 +47,7 @@ I am a  **Software Engineering student (International Program)** at the College 
 * **Objective:** Conducted a deep-dive analysis of an JWT-based AuthN and DTO Design architecture.
 ---
 ## 🛡️ Certifications
-[![(ISC)² CC](https://images.credly.com/size/110x110/images/4db0dce1-213c-4cf9-afc3-9824bf200424/CC-badge-01.png)](https://www.credly.com/users/username.c14514e4)
+[![(ISC)² CC](https://img.shields.io/badge/Certified_in_Cybersecurity-(ISC)%C2%B2-darkred?style=for-the-badge)](https://www.credly.com/users/username.c14514e4)
 
 ## 📫 Connect with Me
 * **[LinkedIn](https://www.linkedin.com/in/sattaya-mingsanthia-513389334/)** 
