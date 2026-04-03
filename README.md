@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🐺 Hi, I'm ArwynHwyl (The Wolf) 
-### **Software Engineer | Security Enthusiast | Aspiring Red team**
-
-I am a  **Software Engineering student (International Program)** at the College of Arts, Media and Technology (CAMT), Chiang Mai University. 
-
 
 <!--##  Technical Arsenal
 
@@ -28,7 +24,7 @@ I am a  **Software Engineering student (International Program)** at the College 
 -->
 ---
 
-##  Featured Security Research & Projects
+## Projects
 
 ### [Manual vs. Automated Vulnerability Assessment](https://github.com/ArwynHwyl/manual-vs-auto-research)
 * **Objective:** Conducted a deep-dive comparative analysis between automated scanners (OWASP ZAP) and manual testing (Burp Suite).
